@@ -3,10 +3,10 @@
 **1D Cellular Automata (CA) for any rule in the range of 0 to 255 can be drawn using this code.**
 
 ### Prameters
-`p` - probability of CA-world to follow given CA rule
-`q` - probability of choosing **_on_** or **_off_** state of the cell randomly when `p>0`
-`f` - fraction of cells in CA-world which whill choose neighbors randomly
-`config` - _random_ or _uniform_
+* `p` - probability of CA-world to follow given CA rule
+* `q` - probability of choosing **_on_** or **_off_** state of the cell randomly when `p>0`
+* `f` - fraction of cells in CA-world which whill choose neighbors randomly
+* `config` - _random_ or _uniform_
 
 ## Along with well known 1d cellular automata rules, there are implementations of few interesting variations. Which are described below
 
