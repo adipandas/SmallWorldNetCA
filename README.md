@@ -17,3 +17,18 @@ One can analyze the effect of noise in the CA-world. It is interesting to observ
 
 ### Small World Network
 For this to be implemented, a small change in neighborhood of CA-cell in each rule is made. The fraction `f` of cells are selected randomly and neighbors are assigned randomly to these selected cells. Based on neighborhood changes, if one uses a deterministic CA rule (without any noise `p=0`), the results show variation of patterns. Even with small value of `f`, huge changes can be observed.
+
+# Sample Results
+![RULE 126](Results/RULE126.png)
+![RULE 126 - SMALL WORLD NETWORK](Results/RULE126_SMALLWORLD.png)
+
+![RULE 129](Results/RULE129.png)
+![RULE 129 - SMALL WORLD NETWORK](Results/RULE126_SMALLWORLD.png)
+
+![RULE 129 - PARAMETER VARIATIONS](Results/Variation_RULE129.png)
+![RULE 129 - PARAMETER VARIATIONS](Results/Variation_RULE129_2.png)
+![RULE 129 SMALL WORLD NETWORK - PARAMETER VARIATIONS](Results/Variation_RULE129_SMALLWORLD.png)
+
+![RULE 109 - PARAMETER VARIATIONS](Results/Variation_RULE109_1.png)
+![RULE 109 - PARAMETER VARIATIONS](Results/Variation_RULE109_2.png)
+![RULE 109 SMALL WORLD NETWORK - PARAMETER VARIATIONS](Results/Variation_RULE109_SMALLWORLD.png)
