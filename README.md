@@ -5,10 +5,10 @@
 ### Prameters
 * `p` - probability of CA-world to follow given CA rule
 * `q` - probability of choosing **_on_** or **_off_** state of the cell randomly when `p>0`
-* `f` - fraction of cells in CA-world which whill choose neighbors randomly
+* `f` - fraction of cells in CA-world which will choose neighbors randomly
 * `config` - _random_ or _uniform_
 
-## Along with well known 1d cellular automata rules, there are implementations of few interesting variations. Which are described below
+## Along with well known 1d cellular automata rules, there are implementations of few interesting variations described below
 
 ### Introduction of NOISE in 1D Cellular Automata
 One can analyze the effect of noise in the CA-world. It is interesting to observe how a simple rule starting in a uniform CA-world can also result in a chaotic behavior with beautiful patterns.
